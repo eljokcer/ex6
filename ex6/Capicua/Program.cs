@@ -10,7 +10,7 @@ namespace Capicua
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Capicua("sugus"));
+            Console.WriteLine(Capicua("step onno pets"));
         }
 
         static bool Capicua(string phrase)
