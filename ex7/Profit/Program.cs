@@ -32,6 +32,7 @@ namespace Profit
                     index = i;
                 }
             }
+            return index;
         }
     }
 }
