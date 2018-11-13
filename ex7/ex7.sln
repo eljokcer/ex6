@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profit", "Profit\Profit.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even", "Even\Even.csproj", "{0E68EC16-376D-4521-A790-1D796601B1E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{84FA8A36-B548-4DAD-AFCF-060E0E7583F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0E68EC16-376D-4521-A790-1D796601B1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E68EC16-376D-4521-A790-1D796601B1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E68EC16-376D-4521-A790-1D796601B1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FA8A36-B548-4DAD-AFCF-060E0E7583F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FA8A36-B548-4DAD-AFCF-060E0E7583F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FA8A36-B548-4DAD-AFCF-060E0E7583F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FA8A36-B548-4DAD-AFCF-060E0E7583F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
